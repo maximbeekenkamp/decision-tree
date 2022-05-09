@@ -1,0 +1,6 @@
+GPA,highSchool,extraCurriculars,lettersOfRec,outcome
+C,blue,strong,strong,reject
+C,red,weak,weak,reject
+A,red,weak,strong,accept
+A,red,strong,weak,reject
+B,blue,weak,strong,accept
